@@ -10,12 +10,14 @@ OPERACIONAL
 JURÍDICO
 DEPURAR
 
+
 Fins de segurança
 
 O registro e a configuração para fins de segurança são normalmente planejados para detectar e responder a anomalias e problemas de segurança. Por exemplo, configuração para verificar a autenticidade da atividade do usuário para garantir o controle de autorização e a detecção oportuna de acesso não autorizado. As principais áreas de foco dessa abordagem são:
 •	Detecção de anomalias e ameaças
 •	Registrando dados de autenticação do usuário
 •	Garantir a integridade do sistema e a confidencialidade dos dados
+
 
 Finalidades operacionais
 
@@ -25,12 +27,14 @@ O registro e a configuração para fins operacionais geralmente são planejados 
 •	Planejamento de capacidade
 •	Faturamento de serviços
 
+
 Fins legais
 
 O registro e a configuração para fins legais são semelhantes aos fins de segurança; geralmente são planejados para permanecer em conformidade e aumentar o alinhamento com regulamentações e obrigações. Aqui, as leis, regulamentações e padrões de conformidade variam dependendo do escopo do trabalho, dos dados sendo processados e da área de serviço sendo fornecida. Portanto, cada inscrição virá com um conjunto de responsabilidades e diretrizes a serem seguidas. As principais áreas de foco dessa abordagem são:
 •	Alinhamento com padrões, conformidade, regulamentos e leis
 •	Por exemplo, ISO 27001, COBIT, GDPR, PCI DSS, HIPAA , FISMA
 Exemplo de conformidade legal:  uma empresa deve ter um sistema de gerenciamento de log central ativo, configuração de log adequada, retenção de log de 12 meses para logs e logs de sistemas afiliados (os dados dos últimos três meses devem estar sempre prontos para pesquisa), verificações de segurança do sistema e dos componentes e verificações gerais de auditoria anuais para atender à conformidade de log PCI.
+
 
 Finalidades de depuração
 
@@ -39,6 +43,7 @@ O registro e a configuração para fins de depuração geralmente são planejado
 •	Aumentando a eficiência
 •	Acelerando o processo de desenvolvimento
 
+PERGUNTAS
 ![image](https://github.com/user-attachments/assets/3ac50b4d-65d5-4afd-9a16-6b4395420ae4)
 A finalidade operacional está diretamente relacionada ao monitoramento do desempenho e ao funcionamento dos sistemas, o que inclui aspectos como faturamento e uso de serviços. Esse tipo de log é utilizado para identificar métricas de utilização, como tempo de uso, consumo de recursos, e cálculo de custos associados a serviços. Portanto, é a escolha correta para medir o custo de uso de um serviço.
 

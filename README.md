@@ -51,7 +51,7 @@ A finalidade operacional está diretamente relacionada ao monitoramento do desem
 ![image](https://github.com/user-attachments/assets/77a57617-c2b1-4e5f-89b8-186d6fe24cf9)
 Logs de depuração (debug) são essenciais para investigar problemas em aplicativos, identificar bugs, e entender condições que possam causar falhas. Eles ajudam os desenvolvedores a melhorar a confiabilidade e a estabilidade do sistema, otimizando os recursos e garantindo que o aplicativo funcione corretamente. Essa finalidade é ideal para análises focadas em aprimoramento e estabilidade, principalmente durante o desenvolvimento ou manutenção do software.
 
-===============================================================================================================================================================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Tarefa 3
@@ -90,8 +90,9 @@ PERGUNTA DA TAREFA 3
 ![image](https://github.com/user-attachments/assets/ff7e337f-3662-4cc5-a805-7c3b97a62d18)
 
 A pergunta "Quanto você precisa registrar?(How much do you need to log?)" está diretamente ligada à determinação do escopo e do nível de detalhes necessários para satisfazer essas demandas regulatórias, incluindo a menção específica dos requisitos do PCI DSS.
-===============================================================================================================================================================================
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

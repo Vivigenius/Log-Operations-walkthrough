@@ -64,14 +64,30 @@ Lembre-se, cada propósito de configuração de log é planejado e implementado 
 Perguntas a serem feitas em uma reunião/sessão de planejamento:
 
 •	O que você registrará e para quê (escopo do ativo e finalidade do registro)?
+
 •	É necessário comprometimento ou esforço adicional para atingir o propósito (requisitos relacionados ao propósito)?
+
 •	Quanto você vai registrar (detalhar escopo)?
+
 •	Quanto você precisa registrar?
+
 •	Como você vai registrar (a coleta)?
+
 •	Como você vai armazenar os logs coletados?
+
 •	Existe algum padrão, processo, legislação ou lei que você deve cumprir devido aos dados que você registra?
+
 •	Como você vai proteger os logs?
+
 •	Como você vai analisar os logs coletados?
+
 •	Você tem recursos e força de trabalho suficientes para fazer o registro?
+
 •	Você tem orçamento suficiente para planejar, implementar e manter o registro?
+
+
+PERGUNTA 
+![image](https://github.com/user-attachments/assets/ff7e337f-3662-4cc5-a805-7c3b97a62d18)
+
+A pergunta "Quanto você precisa registrar?(How much do you need to log?)" está diretamente ligada à determinação do escopo e do nível de detalhes necessários para satisfazer essas demandas regulatórias, incluindo a menção específica dos requisitos do PCI DSS.
 

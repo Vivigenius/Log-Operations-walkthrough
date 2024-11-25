@@ -44,7 +44,7 @@ O registro e a configuração para fins de depuração geralmente são planejado
 •	Aumentando a eficiência
 •	Acelerando o processo de desenvolvimento
 
-PERGUNTAS DA TAREFA 2
+RESPOSTAS DA TAREFA 2
 ![image](https://github.com/user-attachments/assets/3ac50b4d-65d5-4afd-9a16-6b4395420ae4)
 A finalidade operacional está diretamente relacionada ao monitoramento do desempenho e ao funcionamento dos sistemas, o que inclui aspectos como faturamento e uso de serviços. Esse tipo de log é utilizado para identificar métricas de utilização, como tempo de uso, consumo de recursos, e cálculo de custos associados a serviços. Portanto, é a escolha correta para medir o custo de uso de um serviço.
 
@@ -87,7 +87,7 @@ Perguntas a serem feitas em uma reunião/sessão de planejamento:
 •	Você tem orçamento suficiente para planejar, implementar e manter o registro?
 
 
-PERGUNTA DA TAREFA 3
+RESPOSTA DA TAREFA 3
 ![image](https://github.com/user-attachments/assets/ff7e337f-3662-4cc5-a805-7c3b97a62d18)
 
 A pergunta "Quanto você precisa registrar?(How much do you need to log?)" está diretamente ligada à determinação do escopo e do nível de detalhes necessários para satisfazer essas demandas regulatórias, incluindo a menção específica dos requisitos do PCI DSS.
@@ -121,8 +121,29 @@ Embora o foco principal seja o mesmo, dois conjuntos de perguntas representam du
 •	A parte das aspirações é mais focada em uma mentalidade de caça a ameaças. Portanto, é proativa e requer mais recursos devido à necessidade de ir além. Portanto, esta parte é mais útil contra ameaças avançadas e sofisticadas. 
 A parte de linha de base é necessária para uma base sólida de detecção de incidentes e escopo de resposta. No entanto, adotar aspirações proativas adicionando-as à visão operacional é fortemente recomendado, dado o cenário de ameaças em constante evolução. 
 
-PERGUNTA DA TAREFA 4
+RESPOSTA DA TAREFA 4
 ![image](https://github.com/user-attachments/assets/f8b2fb65-e745-4cfe-9eed-14635317c1e0)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tarefa 5
+
+Princípios e Dificuldades
+
+Princípios de registro
+O registro é um aspecto crítico das operações de segurança cibernética e TI. É um processo tão oneroso quanto funcional e requer utilização ativa de recursos. Portanto, é crucial implementar uma operação de registro adequada e garantir sua eficácia e eficiência. Existem vários princípios que ajudam a atingir o objetivo mencionado. A tabela abaixo destaca alguns dos fundamentos.
+![image](https://github.com/user-attachments/assets/460a24fd-4796-4f84-88ed-a3d556fede21)
+
+
+Desafios
+Os desafios são parte do gerenciamento de logs tanto quanto os princípios. No entanto, a maioria deles pode ser abordada na seção de planejamento. A tabela abaixo destaca os principais desafios do log.
+![image](https://github.com/user-attachments/assets/569422a6-f48d-413c-8b25-352d76adcaeb)
+
+
+Para onde ir a partir daqui?
+
+Os princípios e desafios mencionados são comuns e podem variar de acordo com o seu caso. No entanto, o ponto principal é aderir aos princípios de registro e abordar os desafios proativamente.
 
 
 

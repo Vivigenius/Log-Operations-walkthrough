@@ -152,6 +152,12 @@ O princípio de Arquivamento e Acessibilidade (Archiving and Accessibility) trat
 ![image](https://github.com/user-attachments/assets/89a7497a-435c-4293-9e1d-2848024b211a)
 
 
+![image](https://github.com/user-attachments/assets/de8e5993-9222-4e03-8054-006d842f2669)
+A resposta certa é "Process and Archive" porque o problema envolve erros contínuos ao transferir logs, que se relaciona ao desafio de lidar com múltiplos formatos de dados e processamento complexo.
+![image](https://github.com/user-attachments/assets/c8aa7e5b-1f92-43f2-9e53-5ea1c8fcf2d4)
+
+
+
 
 
 

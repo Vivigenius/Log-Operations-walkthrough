@@ -5,6 +5,7 @@ Opções de configuração de log
 
 "Você tem coragem de configurar seus logs ou está feliz em se perder na loucura de milhares de linhas?" Em operações de log, há várias preocupações sobre abordagens de configuração, e identificar a abordagem de configuração adequada pode ser um ponto problemático. 
 A configuração de log é uma operação multifacetada que aborda segurança, estabilidade operacional, conformidade regulatória e necessidades de depuração. Logs adequadamente configurados são cruciais em segurança cibernética, eficiência operacional, conformidade regulatória e desenvolvimento de software, fornecendo às organizações estatísticas abrangentes de gerenciamento de sistema, ativos e recursos. Vamos analisar e entender os escopos e diferenças de propósitos comuns da configuração de log.
+
 SEGURANÇA
 OPERACIONAL
 JURÍDICO
@@ -93,6 +94,38 @@ A pergunta "Quanto você precisa registrar?(How much do you need to log?)" está
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tarefa 4
+
+Dilema de configuração: planejamento e implementação
+
+Dilema de configuração: requisitos, aspirações, recursos e investimento
+O dilema de configuração reflete os desafios da implementação. Conforme destacado na tarefa anterior, cada escopo de configuração de log vem com responsabilidades, diretrizes e desafios. Isso significa que a configuração de log e o registro são mais do que uma simples prática de habilitar o registro dos ativos e sobreviver entre milhares de linhas.
+
+Cada plano de configuração de log resulta de uma análise única do escopo, ativos, objetivos, requisitos e expectativas a serem aplicados. Expectativas, requisitos e limites são determinados com o envolvimento de administradores de sistema, consultores jurídicos e financeiros e gerentes, se possível. Em resumo, a principal fonte do dilema é encontrar o equilíbrio entre requisitos, escopo, detalhes e preço (custos financeiros e trabalhistas, riscos e investimento). Durante a reunião, pode haver alguns pontos em que os participantes saem do assunto, mas é vital ter em mente que o objetivo principal da reunião é:
+
+•	Atender a requisitos operacionais e de segurança específicos (não negociáveis), ao mesmo tempo em que considera a viabilidade de melhorar a capacidade por meio da implementação de dados e insights adicionais.
+
+Por último, mas não menos importante, uma avaliação de risco abrangente, priorizando segurança, conformidade e necessidades legais, será útil para navegar neste dilema. Encontrar o equilíbrio em decisões de nível "operacional e de gerenciamento" e alcançar resultados seguros, eficientes, proativos, resilientes e sustentáveis no cenário de ameaças/TI em constante evolução e operações técnicas.
+
+Traduzindo “Requisitos” e “Aspirações” para o Nível Operacional
+
+Vamos analisar mais detalhadamente como exatamente o dilema surgiu.
+
+![image](https://github.com/user-attachments/assets/3096ea39-7d84-485f-b4de-c4ede9d5f1b0)
+
+Embora o foco principal seja o mesmo, dois conjuntos de perguntas representam duas dimensões distintas de registro e análise:
+•	A parte base depende muito de uma mentalidade de detecção de incidentes. Ainda assim, ela fornece uma estrutura sólida para registro e análise, mas é reativa. Os requisitos são um bom lugar para começar, mas são úteis principalmente contra ameaças conhecidas.
+
+
+•	A parte das aspirações é mais focada em uma mentalidade de caça a ameaças. Portanto, é proativa e requer mais recursos devido à necessidade de ir além. Portanto, esta parte é mais útil contra ameaças avançadas e sofisticadas. 
+A parte de linha de base é necessária para uma base sólida de detecção de incidentes e escopo de resposta. No entanto, adotar aspirações proativas adicionando-as à visão operacional é fortemente recomendado, dado o cenário de ameaças em constante evolução. 
+
+PERGUNTA DA TAREFA 4
+![image](https://github.com/user-attachments/assets/f8b2fb65-e745-4cfe-9eed-14635317c1e0)
+
+
+
 
 
 

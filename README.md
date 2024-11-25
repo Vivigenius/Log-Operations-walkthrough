@@ -158,6 +158,40 @@ A resposta certa é "Process and Archive" porque o problema envolve erros contí
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tarefa 6
+
+Erros comuns e melhores práticas
+
+O registro é uma ferramenta poderosa e valiosa para segurança cibernética e operações de TI. Mas aproveitar esse poder e maximizá-lo requer planejamento e implementação sólidos. Caso contrário, o registro se tornará ineficiente, tornando as coisas difíceis de fazer, tediosas de gerenciar e drenando recursos.
+
+Além dos detalhes, estratégias e sugestões de alto e baixo nível discutidos até este ponto, mais algumas coisas exigem sua atenção. O registro é uma operação contínua e ativa que precisa de manutenção e melhoria contínuas. Portanto, a infame abordagem "se funciona, não toque!" é inaceitável. As ameaças e tecnologias de computação evoluem e mudam; portanto, você deve atualizar suas configurações e adaptar as mudanças de acordo. Implementar as seguintes ações é um bom lugar para começar o processo de autoavaliação e melhoria.
+
+Aprenda com erros e fracassos.
+
+Monitore a dinâmica de ameaças setoriais para o setor operado e realize testes regulares de escopo e resiliência.
+Siga as melhores práticas de líderes e especialistas do setor.
+Se você já pensou sobre a importância de reconfigurar, atualizar ou testar suas configurações de registro existentes, considere a seguinte experiência real enfrentada por milhões de pessoas no mundo todo.
+
+![image](https://github.com/user-attachments/assets/9bf155ad-c4c3-44a4-a892-3ee939fa3ee6)
+
+
+Erros comuns e melhores práticas
+
+Primeiro, você deve usar serviços de consultoria se estiver com pouco tempo e precisar de uma solução que se ajuste diretamente aos seus sistemas. Soluções personalizadas exigem práticas abrangentes de avaliação de risco, conforme destacado nas tarefas anteriores. No entanto, evitar alguns pontos problemáticos conhecidos e casos de deadlock é possível considerando o que "fazer" e o que "não fazer" nas etapas de planejamento e implementação. Portanto, o ponto principal desta seção é entender "o que funciona" e "o que não funciona".
+
+![image](https://github.com/user-attachments/assets/3affdc17-69af-4d6b-9158-a5fee3733325)
+
+
+RESPOSTA DA TAREFA 6
+![image](https://github.com/user-attachments/assets/c59f0843-edb6-4db9-996f-556dd722bc2b)
+Esse erro é porque o script personalizado omite registros em algumas fases, o que resulta em configurações de log inadequadas. Isso pode causar falta de informações críticas necessárias para auditorias, segurança e resolução de problemas, tornando o processo de monitoramento e análise menos eficaz. Portanto, implementar um script que não captura todos os eventos relevantes é considerado uma prática incorreta.
+
+
+
+
+
 
 
 

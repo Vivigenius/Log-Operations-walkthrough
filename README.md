@@ -146,6 +146,11 @@ Para onde ir a partir daqui?
 Os princípios e desafios mencionados são comuns e podem variar de acordo com o seu caso. No entanto, o ponto principal é aderir aos princípios de registro e abordar os desafios proativamente.
 
 
+RESPOSTAS DA TAREFA 5
+![image](https://github.com/user-attachments/assets/2803dcb8-d1f5-4301-a413-f62389ad930f)
+O princípio de Arquivamento e Acessibilidade (Archiving and Accessibility) trata justamente de definir políticas de retenção de logs e garantir que os dados relevantes sejam armazenados de forma segura e acessível para futuras análises.
+![image](https://github.com/user-attachments/assets/89a7497a-435c-4293-9e1d-2848024b211a)
+
 
 
 

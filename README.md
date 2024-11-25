@@ -47,5 +47,31 @@ PERGUNTAS
 ![image](https://github.com/user-attachments/assets/3ac50b4d-65d5-4afd-9a16-6b4395420ae4)
 A finalidade operacional está diretamente relacionada ao monitoramento do desempenho e ao funcionamento dos sistemas, o que inclui aspectos como faturamento e uso de serviços. Esse tipo de log é utilizado para identificar métricas de utilização, como tempo de uso, consumo de recursos, e cálculo de custos associados a serviços. Portanto, é a escolha correta para medir o custo de uso de um serviço.
 
+
 ![image](https://github.com/user-attachments/assets/77a57617-c2b1-4e5f-89b8-186d6fe24cf9)
 Logs de depuração (debug) são essenciais para investigar problemas em aplicativos, identificar bugs, e entender condições que possam causar falhas. Eles ajudam os desenvolvedores a melhorar a confiabilidade e a estabilidade do sistema, otimizando os recursos e garantindo que o aplicativo funcione corretamente. Essa finalidade é ideal para análises focadas em aprimoramento e estabilidade, principalmente durante o desenvolvimento ou manutenção do software.
+
+
+
+
+Tarefa 3
+
+Por onde começar e o que fazer depois de decidir a finalidade do log?
+Se você já tem um objetivo e um plano de escopo, mas precisa de ajuda para saber como e onde começar, você pode usar os métodos de reunião e brainstorming com sua equipe. A reunião pode soar como uma ação passiva, mas ela dará início ao brainstorming, o que ajudará a considerar múltiplos aspectos e criar um rascunho do plano.
+Lembre-se, cada propósito de configuração de log é planejado e implementado para cumprir uma meta diferente. Questionar é uma das maneiras mais comuns de identificar necessidades e facilitar o planejamento. Lembre-se, cada implementação é única, mas perguntas básicas comuns devem ser respondidas em quase todas as sessões de planejamento de configuração de log. Você pode usar as seguintes perguntas como ponto de partida e ampliar a lista de acordo com as respostas. Lembre-se, você precisará de etapas adicionais, como criar um plano detalhado, escolher ferramentas/tecnologias, estabelecer processos de monitoramento e revisão/análise após responder às perguntas iniciais.
+
+
+Perguntas a serem feitas em uma reunião/sessão de planejamento:
+
+•	O que você registrará e para quê (escopo do ativo e finalidade do registro)?
+•	É necessário comprometimento ou esforço adicional para atingir o propósito (requisitos relacionados ao propósito)?
+•	Quanto você vai registrar (detalhar escopo)?
+•	Quanto você precisa registrar?
+•	Como você vai registrar (a coleta)?
+•	Como você vai armazenar os logs coletados?
+•	Existe algum padrão, processo, legislação ou lei que você deve cumprir devido aos dados que você registra?
+•	Como você vai proteger os logs?
+•	Como você vai analisar os logs coletados?
+•	Você tem recursos e força de trabalho suficientes para fazer o registro?
+•	Você tem orçamento suficiente para planejar, implementar e manter o registro?
+

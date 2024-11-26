@@ -7,8 +7,11 @@ Opções de configuração de log
 A configuração de log é uma operação multifacetada que aborda segurança, estabilidade operacional, conformidade regulatória e necessidades de depuração. Logs adequadamente configurados são cruciais em segurança cibernética, eficiência operacional, conformidade regulatória e desenvolvimento de software, fornecendo às organizações estatísticas abrangentes de gerenciamento de sistema, ativos e recursos. Vamos analisar e entender os escopos e diferenças de propósitos comuns da configuração de log.
 
 SEGURANÇA
+
 OPERACIONAL
+
 JURÍDICO
+
 DEPURAR
 
 
